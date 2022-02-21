@@ -213,3 +213,4 @@ public class DbIntegrityException extends RuntimeException {
 }
 
 ![1](https://user-images.githubusercontent.com/61166475/155030236-d78bb83c-7230-4e43-976e-b1d2d988131f.png)
+
